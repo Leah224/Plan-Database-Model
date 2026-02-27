@@ -1,6 +1,5 @@
 Database Planning – Cosmic Explorer
 
-Before building the backend, it is important to determine what data needs to be stored in the database. Careful planning ensures efficient data organization, clear relationships between entities, and a structured foundation for development.
 
 1. Identifying Required Data
 

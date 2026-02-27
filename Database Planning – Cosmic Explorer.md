@@ -63,14 +63,3 @@ Each favorite belongs to one user.
 
 This relationship ensures proper data ownership and organization.
 
-4. Why This Structure Is Effective
-
-Prevents duplicate tables for each content type
-
-Keeps the schema simple and scalable
-
-Separates authentication data from content data
-
-Allows flexible storage of API responses using structured JSON
-
-Provides a clear blueprint before development begins
